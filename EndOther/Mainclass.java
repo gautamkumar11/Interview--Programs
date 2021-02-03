@@ -41,3 +41,10 @@ class Mainclass
 		System.out.println(ref.endOther("abc", "abcAbD"));		//false
 	}
 }
+
+
+
+
+
+
+
