@@ -1,5 +1,8 @@
 /* 
-Given two strings, write a function end_other(as mentioned below), such that, it returns True, if either of the strings appears at the very end of the other string, ignoring upper/lower case differences (in other words, the computation should not be "case sensitive"). 
+Given two strings, write a function end_other(as mentioned below), 
+such that, it returns True, if either of the strings appears 
+at the very end of the other string, ignoring upper/lower case 
+differences (in other words, the computation should not be "case sensitive"). 
 
 end_other(input=>string1, string2)
 
@@ -41,8 +44,6 @@ class Mainclass
 		System.out.println(ref.endOther("abc", "abcAbD"));		//false
 	}
 }
-
-
 
 
 

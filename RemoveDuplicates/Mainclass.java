@@ -1,5 +1,6 @@
 /*
-Write a function remove_duplicates(as mentioned below), such that, it remove duplicates from array (without using Collections).
+Write a function remove_duplicates(as mentioned below), 
+such that, it remove duplicates from array (without using Collections).
 
 remove_duplicates(input=>array on integers)
 
